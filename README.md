@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel Rocha</h1>
-<h3 align="center">A curious, hard learning full stack developer</h3>
+<h3 align="center">A curious, hard working full stack developer</h3>
 
 - 🔭 I’m currently working on **full-stack freelance projects.**
 - 🌱 I’m currently learning **advanced architecture patterns in Python.** 
